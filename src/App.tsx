@@ -26,6 +26,7 @@ const App = () => (
           </Routes>
         </GameProvider>
       </BrowserRouter>
+      <Analytics />
     </TooltipProvider>
   </QueryClientProvider>
 );
